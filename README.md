@@ -8,7 +8,7 @@ To run the project:
 3. Run `yarn start`
 
 # Technologies
-- React
+- React (Webpack)
 - Redux
 - Redux Saga
 - Giphy API
